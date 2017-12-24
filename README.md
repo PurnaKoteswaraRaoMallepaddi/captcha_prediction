@@ -3,3 +3,4 @@ predicting the captcha using convelutional neural networks and open cv,you can d
 I have used the CNN and open CV.
 and tensor.npy file is missing so you have to generate it on your own just by running the code.
 it took me 3 whole days to complete this wonderfull project thanks for visiting
+you can look at the output and enjoy
